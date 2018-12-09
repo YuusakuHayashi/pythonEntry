@@ -6,3 +6,6 @@ cities-data.csv
 .ipynb_checkpoints
 credentials.json
 settings.yaml
+*.xlsx
+hoge.py
+*ejdic-hand-utf8.txt
